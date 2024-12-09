@@ -26,7 +26,7 @@ Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan ko
 6. Membuat file index untuk menampilkan data (Read) : Buat file baru dengan nama index.php
 ![image](https://github.com/user-attachments/assets/3b6bd067-7a18-4ce0-9047-77865d4eb973)
 7. Menambah Data (Create) : Buat file baru dengan nama tambah.php
-![image](https://github.com/user-attachments/assets/bf2a5dd9-3c81-48e8-b58f-c81b76551290)
+![image](https://github.com/user-attachments/assets/c8c6a73f-7dc8-4329-81ce-09c36f0c0a68)
 8. Mengubah Data (Update) : Buat file baru dengan nama ubah.php
 
 # Laporan Praktikum
