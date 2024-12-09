@@ -24,7 +24,7 @@ Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka melal
 ![image](https://github.com/user-attachments/assets/543c9b3a-8e17-4599-9296-8456f3d91029)
 Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan koneksi berhasil, uncomment pada perintah echo “koneksi berhasil”;
 6. Membuat file index untuk menampilkan data (Read) : Buat file baru dengan nama index.php
-![image](https://github.com/user-attachments/assets/94fe57b7-5183-4878-885a-55f64b7a10d1)
+![image](https://github.com/user-attachments/assets/3b6bd067-7a18-4ce0-9047-77865d4eb973)
 7. Menambah Data (Create) : Buat file baru dengan nama tambah.php
 
  
