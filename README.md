@@ -2,7 +2,7 @@
 # NAMA      : REFANIA MEILANI FIRDOS
 # KELAS     : TI.A2.23
 # NIM       : 312310173
-#Instruksi Praktikum
+# Instruksi Praktikum
 1. Persiapkan text editor misalnya VSCode.
 2. Buat folder baru dengan nama lab8_php_database pada docroot webserver(htdocs)
 3. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
@@ -12,7 +12,7 @@ Untuk memulai membuat aplikasi CRUD sederhana, yang perlu disiapkan adalah datab
 1. Menjalankan MySQL Server
 2. Untuk menjalankan MySQL Server dari menu XAMPP Contol.
 ![image](https://github.com/user-attachments/assets/cfae99f7-e7e7-445b-b1c3-ce8b8269f460)
-# Mengakses MySQL Client menggunakan PHP MyAdmin
+Mengakses MySQL Client menggunakan PHP MyAdmin
 Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka melalui browser: http://localhost/phpmyadmin/
 3. Membuat Database: Studi Kasus Data Barang
 ![image](https://github.com/user-attachments/assets/c9cced20-36e3-498b-8757-5c2cd920ae88)
