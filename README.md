@@ -24,9 +24,9 @@ Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka melal
 ![image](https://github.com/user-attachments/assets/543c9b3a-8e17-4599-9296-8456f3d91029)
 Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan koneksi berhasil, uncomment pada perintah echo “koneksi berhasil”;
 6. Membuat file index untuk menampilkan data (Read) : Buat file baru dengan nama index.php
-![image](https://github.com/user-attachments/assets/3b6bd067-7a18-4ce0-9047-77865d4eb973)
+![image](https://github.com/user-attachments/assets/7be2587f-a81c-4719-80c0-de3376a8196a)
 7. Menambah Data (Create) : Buat file baru dengan nama tambah.php
-![image](https://github.com/user-attachments/assets/c8c6a73f-7dc8-4329-81ce-09c36f0c0a68)
+![image](https://github.com/user-attachments/assets/304a12ab-db6a-468f-815b-7e972c568040)
 8. Mengubah Data (Update) : Buat file baru dengan nama ubah.php
 
 # Laporan Praktikum
