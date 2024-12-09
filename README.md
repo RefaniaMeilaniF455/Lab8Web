@@ -26,6 +26,16 @@ Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan ko
 6. Membuat file index untuk menampilkan data (Read) : Buat file baru dengan nama index.php
 ![image](https://github.com/user-attachments/assets/3b6bd067-7a18-4ce0-9047-77865d4eb973)
 7. Menambah Data (Create) : Buat file baru dengan nama tambah.php
+![image](https://github.com/user-attachments/assets/bf2a5dd9-3c81-48e8-b58f-c81b76551290)
+8. Mengubah Data (Update) : Buat file baru dengan nama ubah.php
+
+# Laporan Praktikum
+1. Buatlah repository baru dengan nama Lab8Web.
+2. Kerjakan semua latihan yang diberikan sesuai urutannya.
+3. Screenshot setiap perubahannya.
+4. Buatlah file README.md dan tuliskan penjelasan dari setiap langkah praktikum beserta screenshotnya.
+5. Commit hasilnya pada repository masing-masing.
+6. Kirim URL repository pada e-learning ecampus
 
  
 
