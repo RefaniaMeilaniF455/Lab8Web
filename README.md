@@ -27,6 +27,8 @@ Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan ko
 ![image](https://github.com/user-attachments/assets/7be2587f-a81c-4719-80c0-de3376a8196a)
 7. Menambah Data (Create) : Buat file baru dengan nama tambah.php
 ![image](https://github.com/user-attachments/assets/304a12ab-db6a-468f-815b-7e972c568040)
+![image](https://github.com/user-attachments/assets/3ae0ea27-451e-44c8-b1a2-4acc95768d4e)
+
 8. Mengubah Data (Update) : Buat file baru dengan nama ubah.php
 
 # Laporan Praktikum
