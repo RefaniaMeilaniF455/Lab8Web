@@ -26,9 +26,14 @@ Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan ko
 6. Membuat file index untuk menampilkan data (Read) : Buat file baru dengan nama index.php
 ![image](https://github.com/user-attachments/assets/7be2587f-a81c-4719-80c0-de3376a8196a)
 7. Menambah Data (Create) : Buat file baru dengan nama tambah.php
+Saya menambahkan item barang : Macbook
 ![image](https://github.com/user-attachments/assets/304a12ab-db6a-468f-815b-7e972c568040)
 ![image](https://github.com/user-attachments/assets/3ae0ea27-451e-44c8-b1a2-4acc95768d4e)
-8. Mengubah Data (Update) : Buat file baru dengan nama ubah.php
+Saya menambahkan item barang : Mouse
+![image](https://github.com/user-attachments/assets/bf464a44-99b9-4aa2-892b-3bde0942aed1)
+![image](https://github.com/user-attachments/assets/f9b06133-a5cf-45f0-be8b-295957246e29)
+
+9. Mengubah Data (Update) : Buat file baru dengan nama ubah.php
 ![image](https://github.com/user-attachments/assets/a625eecf-b2db-4259-b216-714c9e857583)
 ![image](https://github.com/user-attachments/assets/f6269e6a-0370-4f9f-bb20-dfacd2bc3e59)
 
