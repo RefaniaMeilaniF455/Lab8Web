@@ -25,7 +25,7 @@ Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka melal
 Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan koneksi berhasil, uncomment pada perintah echo “koneksi berhasil”;
 6. Membuat file index untuk menampilkan data (Read) : Buat file baru dengan nama index.php
 ![image](https://github.com/user-attachments/assets/7be2587f-a81c-4719-80c0-de3376a8196a)
-7. Menambah Data (Create) : Buat file baru dengan nama tambah.php
+7. Menambah Data (Create): Buat file baru dengan nama tambah.php
 Saya menambahkan item barang : Macbook
 ![image](https://github.com/user-attachments/assets/304a12ab-db6a-468f-815b-7e972c568040)
 ![image](https://github.com/user-attachments/assets/3ae0ea27-451e-44c8-b1a2-4acc95768d4e)
