@@ -39,6 +39,8 @@ Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan ko
 4. Buatlah file README.md dan tuliskan penjelasan dari setiap langkah praktikum beserta screenshotnya.
 5. Commit hasilnya pada repository masing-masing.
 6. Kirim URL repository pada e-learning ecampus
+# Link URL repository github 
+https://github.com/RefaniaMeilaniF455/Lab8Web/blob/main/README.md
 
  
 
